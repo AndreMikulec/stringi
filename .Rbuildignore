@@ -1,3 +1,4 @@
+^NEWS_TODO$
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^.*\.kdev4$
@@ -8,6 +9,7 @@
 ^src-x64
 ^src/.*\.o$
 ^src/icu55/data
+^src/icu61/data
 ^src/.*\.a$
 ^src/.*\.so$
 ^src/.*\.dll$
